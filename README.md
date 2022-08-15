@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ## 🎈 Usage <a name="usage" id="usage"></a>
 <b> Follow the instructions on the GOOGLE COLAB file.</b><br>
 
-image.png
+![image](https://user-images.githubusercontent.com/41366297/184724428-6f08db27-4f3a-484d-b492-d5eeed152eb4.png)
 
 On the Gradio Interface, you can find a tab each dedicated to using a different model. You have to click on the upload `audio box` and upload the `audio file`. Then click on the `Submit` button. Wait for a few seconds to find the label of the Sentiment Class displayed in the box below.
 
