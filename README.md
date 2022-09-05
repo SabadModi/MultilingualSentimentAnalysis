@@ -66,7 +66,7 @@ Visit https://huggingface.co/spaces and create and account there. Upload the cod
 ### Dataset Used
 - [RAVDESS](https://zenodo.org/record/1188976#.XrC7a5NKjOR) - English Dataset
 - [CaFE](https://zenodo.org/record/1478765) - French Dataset
-- [EMO-DB](https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb) - Web Framework
+- [EMO-DB](https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb) - German Dataset
 - [MESD](https://data.mendeley.com/datasets/cy34mh68j9/5) - Mexican Dataset
 
 ## 🎉 Acknowledgements <a name = "acknowledgement" id="acknowledgement"></a>
